@@ -1,0 +1,40 @@
+
+R version 3.5.1 (2018-07-02) -- "Feather Spray"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> (10^2) + ((3 * 60) / 8) - 3
+[1] 119.5
+> (5^3 * (6 - 2)) / (61 - 3 + 4)
+[1] 8.064516
+> 2^(2+1) - 4 + 64^(-2^(2.25 - 1/4))
+[1] 4
+> ((0.44 * (1 - 0.44)) / 34)^(1/2)
+[1] 0.08512966
+> sqrt(5423978071) %/% 1
+[1] 73647
+> sin(-pi / 6)
+[1] -0.5
+> cos(pi / 2)
+[1] 6.123032e-17
+> tan(-pi / 2)
+[1] -1.633124e+16
+> 1 - 2 + ((1/2)* 2^2) - ((1/6) * 2^3) + ((1/24) * 2^4) - ((1/120) * 2^5)
+[1] 0.06666667
+> 24 / (2 + (5 / (3 + 4 / (4 - (1 / (1 - (1/2)))))))
+[1] 8
+> 
