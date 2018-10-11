@@ -1,14 +1,6 @@
 # Name: Rodrigo Ignacio Rojas Garcia
 # Assignment #14
 
-f = function(x)
-{
-  result = cos(x) - 0.80 + 0.10*x^2
-  #result = - sin(x) + (x / 50)
-  #result = (x- 3)^5
-  return(result)
-}
-
 bisection = function(A, B, t)
 {
   if ((f(A) > 0) & (f(B) > 0))
@@ -34,5 +26,5 @@ bisection = function(A, B, t)
     }
     
   }
-  return(M)
+  return((A + B) / 2)
 }
