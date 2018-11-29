@@ -1,0 +1,7 @@
+name age.years gender entertaining age.months
+Peter NA M High 504
+Lois 40 F NA 480
+Meg 17 F Low 204
+Chris 14 M Med 168
+Steve 1 M High NA
+Brian NA M Med NA
